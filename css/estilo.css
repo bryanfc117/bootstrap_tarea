@@ -1,0 +1,27 @@
+#colu{
+	border: 3px gray solid;
+	background: #AEFDFF;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	text-align: center;
+	font-family: helvetica;
+}
+#colu2{
+	border: 3px gray solid;
+
+}
+
+
+
+#yo{
+	width: 310px; height: 310px;
+}
+
+#candara{
+	font-family: candara;
+}
+#icon{
+	
+	font-size: 2em;
+}
